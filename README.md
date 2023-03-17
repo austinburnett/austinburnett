@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Contact Info
+- 📫 aburn1011@gmail.com
+- 👨 https://www.linkedin.com/in/austin-burnett-51249a183/
+- 👨‍💻 https://austinburnett.dev/
 
 <!--
 **austinburnett/austinburnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

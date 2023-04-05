@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi, I'm Austin Burnett!
 
+<img src="https://github.com/austinburnett/austinburnett/blob/master/assets/iroh.gif"/>
+
+## Links
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/austin-burnett-51249a183)
 [![](https://img.shields.io/badge/Personal_Website-green)](https://www.austinburnett.dev)
 

@@ -1,6 +1,9 @@
-## Hi, I'm Austin Burnett!
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi!%20I'm%20Austin&fontAlign=30&fontSize=30&desc=Check%20out%20my%20links!&descAlign=60&descAlignY=50&theme=radical)
 
+<div display="inline-block" justify-content="space-between">
 <img src="https://github.com/austinburnett/austinburnett/blob/master/assets/iroh.gif"/>
+<img src="https://github.com/austinburnett/austinburnett/blob/master/assets/iroh.gif"/>
+</div>
 
 ## Links
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/austin-burnett-51249a183)

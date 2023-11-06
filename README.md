@@ -5,7 +5,7 @@
 <img src="https://github.com/austinburnett/austinburnett/blob/master/assets/iroh.gif"/>
 </div>
 
-## Links
+# Links
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/austin-burnett-51249a183)
 [![](https://img.shields.io/badge/Personal_Website-green)](https://www.austinburnett.dev)
 

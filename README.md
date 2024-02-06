@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi!%20I'm%20Austin&fontAlign=30&fontSize=30&desc=Check%20out%20my%20links!&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi!%20I%27m%20Austin&fontAlign=30&fontSize=30&desc=I%20like%20to%20code&descAlign=60&descAlignY=50&theme=radical)
 
 # Links
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/austin-burnett-51249a183)
